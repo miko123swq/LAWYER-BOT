@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
@@ -14,11 +15,16 @@
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
+=======
+  <component name="ChangeListManager">
+    <list default="true" id="333d5699-7062-4da7-afe3-243031200654" name="Changes" comment="" />
+>>>>>>> dd6f525f6507e31dcb28f1f3f6267f1722253e8b
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -26,6 +32,8 @@
       </list>
     </option>
   </component>
+=======
+>>>>>>> dd6f525f6507e31dcb28f1f3f6267f1722253e8b
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -33,15 +41,20 @@
   "associatedIndex": 3
 }]]></component>
   <component name="ProjectId" id="2d58rV6cMEZNiLD8bmgKGxbFs4D" />
+<<<<<<< HEAD
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
+=======
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+>>>>>>> dd6f525f6507e31dcb28f1f3f6267f1722253e8b
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+<<<<<<< HEAD
     "Python.app.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -51,6 +64,15 @@
 }]]></component>
   <component name="RunManager">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+=======
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+>>>>>>> dd6f525f6507e31dcb28f1f3f6267f1722253e8b
       <module name="LAWYER-BOT2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -63,7 +85,11 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="C:\Users\miko12\PycharmProjects\LAWYER-BOT2\app.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+>>>>>>> dd6f525f6507e31dcb28f1f3f6267f1722253e8b
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,4 +117,18 @@
     </task>
     <servers />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+>>>>>>> dd6f525f6507e31dcb28f1f3f6267f1722253e8b
 </project>
